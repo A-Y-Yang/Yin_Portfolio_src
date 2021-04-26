@@ -11,6 +11,7 @@ title: "Project II: Drug Target Identification"
 * Built machine learning models(decision tree, random forest, gradient boosting, SVM, DNN, LSTM) for molecular structure analysis to predict compounds’ bioactivity toward selected targets.
 * Built a client-facing API using Django.
 
-![](/images/github.png | height="20px" width="20px")
+{{< figure src="/images/github.png" class="img-lg">}}
+![git_img](/images/github.png)
 
 [Link to GitHub Repository](https://github.com/A-Y-Yang/CSP-572-Drug-Target-Identification-master)
