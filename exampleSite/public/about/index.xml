@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Yin&#39;s Blog</title>
-    <link>https://example.com/about/</link>
+    <link>https://a-y-yang.github.io/Yin_Portfolio/about/</link>
     <description>Recent content in About on Yin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://a-y-yang.github.io/Yin_Portfolio/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
