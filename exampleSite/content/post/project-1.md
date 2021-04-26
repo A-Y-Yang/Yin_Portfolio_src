@@ -1,6 +1,6 @@
 ---
 date: 2017-04-25T10:58:08-04:00
-description: "Drug Target Identification"
+description: "Molecular Descriptor Analysis"
 featured_image: "/images/molecules.jpg"
 #tags: ["scene"]
 title: "Project II: Drug Target Identification"
