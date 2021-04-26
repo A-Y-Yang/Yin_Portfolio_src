@@ -18,7 +18,7 @@ Drug discovery and development pipeline is resource-intensive and time-consuming
 * Established a prototype pipeline to rank potential drug compounds for drug discovery to reduce the time and costs of drug development.
 * Calculated PubChem Fingerprints using PaDEL-Descriptor.
 * Built machine learning models(decision tree, random forest, gradient boosting, SVM, DNN, LSTM) for molecular structure analysis to predict compounds’ bioactivity toward selected targets.
-* Built a client-facing API using Django.
+* Built a client-facing API using Python Django.
 
 
 
