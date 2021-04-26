@@ -1,14 +1,9 @@
 ---
-date: 2021-04-25T10:58:08-04:00
-description: "Molecular Descriptor Analysis"
-featured_image: "/images/molecules.jpg"
-#tags: ["scene"]
-title: "Project II: Drug Target Identification"
+date: 2017-04-10T11:00:59-04:00
+description: "Time Series Analysis"
+featured_image: "/images/air_pollution.jpg"
+#tags: []
+title: "Project I: Air Pollution PM2.5 Forecasting"
 ---
 
-* Established a prototype pipeline to rank potential drug compounds for drug discovery to reduce the time and costs of drug development.
-* Calculated PubChem Fingerprints using PaDEL-Descriptor.
-* Built machine learning models(decision tree, random forest, gradient boosting, SVM, DNN, LSTM) for molecular structure analysis to predict compounds’ bioactivity toward selected targets.
-* Built a client-facing API using Django.
-
-[Link to GitHub Repository](https://github.com/A-Y-Yang/CSP-572-Drug-Target-Identification-master)
+[Link to GitHub Repository](https://github.com/A-Y-Yang/Math-564-Time-Series-PM2.5-China-master)
