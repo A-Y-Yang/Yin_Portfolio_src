@@ -1,7 +1,7 @@
 ---
 date: 2017-04-10T11:00:59-04:00
-description: "Air Pollution PM2.5 Forecasting"
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+description: "Time Series Analysis"
+featured_image: "/images/air_pollution.jpg"
 #tags: []
 title: "Project I: Air Pollution PM2.5 Forecasting"
 ---
