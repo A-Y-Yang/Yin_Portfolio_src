@@ -3,7 +3,7 @@ date: 2017-04-25T10:58:08-04:00
 description: "Drug Target Identification"
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 #tags: ["scene"]
-title: "Project I: Drug Target Identification"
+title: "Project II: Drug Target Identification"
 ---
 
 * Established a prototype pipeline to rank potential drug compounds for drug discovery to reduce the time and costs of drug development.
