@@ -14,8 +14,6 @@ Blood glucose monitoring is essential for diabetes management. With modern techn
 ![prj2_objs](/images/prj2_objs.png)
 
 * Diagnosed whether a patient has diabetes by analyzing relevant features through logistic regression, KNN, Naive Bayes.
-* Utilized univariate time series analysis(ARIMA/SARIMA, VAR, Prophet, LSTM) to forecast the following 40 minutes blood glucose levels.
-* Estimated both forty minutes and four hours ahead blood glucose level using multivariate LSTM.
-
+* Utilized univariate/multivariate time series analysis(ARIMA/SARIMA, VAR, Prophet, LSTM) to forecast the following forty minutes and four hours blood glucose levels.
 
 [[GitHub]](https://github.com/A-Y-Yang/CSP-571-Continuous-Glucose-Monitoring-master)
