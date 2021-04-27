@@ -11,7 +11,7 @@ of PM2.5 concentration over the period of January 1, 2010 and December 31, 2015 
 
 
 ## Objectives
-![prj3_objs](/images/prj1_objs.png)
+![prj1_objs](/images/prj1_objs.png)
 
 * Applied preliminary analyses to detect the seasonality and analyze the pattern of the distribution of the data each year.
 * Utilized univariate time series analysis(ARIMA/SARIMA, LSTM, Prophet) to predict the air pollution level based on past two years' weekly air quality.
