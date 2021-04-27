@@ -1,5 +1,5 @@
 ---
-date: 2017-04-10T11:00:59-04:00
+date: 2020-12-10T11:00:59-04:00
 description: "Time Series Analysis"
 featured_image: "/images/lab.jpg"
 #tags: []
