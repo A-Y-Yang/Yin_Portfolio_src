@@ -13,6 +13,6 @@ The goal is to build an US online grocery store application using a database bac
 ![prj2_objs](/images/prj2_objs2.png)
 
 * Designed a grocery shopping system for both customers and staff leveraging PostgreSQL.
-* Utilize AWS, Python Flask to create an e-commerce website for users to perform tasks.
+* Utilize AWS S3, Python Flask to create an e-commerce website for users to perform tasks.
 
 [[GitHub]](https://github.com/A-Y-Yang/CS-425-Online-Grocery-Store-App-master)
