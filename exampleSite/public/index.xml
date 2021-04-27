@@ -18,16 +18,16 @@
     </item>
     
     <item>
-      <title>Project I: Continuous Glucose Monitoring</title>
+      <title>Project I: Air Pollution PM2.5 Forecasting</title>
       <link>https://a-y-yang.github.io/Yin_Portfolio/post/project-1/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <pubDate>Tue, 21 Apr 2020 11:00:59 -0400</pubDate>
       
       <guid>https://a-y-yang.github.io/Yin_Portfolio/post/project-1/</guid>
-      <description>Link to GitHub Repository</description>
+      <description>Abstract  Tackling climate change and alleviating air pollution emerge as the top agendum of the global community, so we are interested in studying pollution-related time series data to look for some insights. The data we are looking into is PM2.5 data of five Chinese cities provided by the UCI Machine Learning Repository. PM2.5, referring to atmospheric particulate matter with less than 2.5 micrometer, is one of the common pollutants from power plants and automobiles.</description>
     </item>
     
     <item>
-      <title>Project II: Air Pollution PM2.5 Forecasting</title>
+      <title>Project II: Continuous Glucose Monitoring</title>
       <link>https://a-y-yang.github.io/Yin_Portfolio/post/project-2/</link>
       <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
       

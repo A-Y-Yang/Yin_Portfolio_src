@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "Hey! My name is Yin. A passionate data specialist."
-featured_image: '/images/earth_night.jpg'
+featured_image: '/images/about_me.jpg'
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
