@@ -11,13 +11,12 @@ Drug discovery and development pipeline is resource-intensive and time-consuming
 
 
 ## Objectives
-![prj3_objs](/images/prj3_objs2.png)
+![prj3_objs](/images/prj3_objs3.png)
 
 * Established a prototype pipeline to rank potential drug compounds for drug discovery to reduce the time and costs of drug development.
 * Calculated PubChem Fingerprints using PaDEL-Descriptor.
 * Built machine learning models(decision tree, random forest, gradient boosting, logistic regression, SVM, DNN, LSTM) for molecular structure analysis to predict compounds’ bioactivity toward selected targets.
+* Found active compounds with similar chemical structure (> 90% similarity) using RDKit.
 * Built a client-facing API using Python Django.
-
-
 
 [[GitHub]](https://github.com/A-Y-Yang/CSP-572-Drug-Target-Identification-master)
