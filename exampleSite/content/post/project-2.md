@@ -1,6 +1,6 @@
 ---
 date: 2020-06-23T11:00:59-04:00
-description: "Python | PostgreSQL | AWS S3"
+description: "Python | PostgreSQL | AWS RDS"
 featured_image: "/images/grocery.jpg"
 #tags: []
 title: "Project II: Online Grocery Store"
