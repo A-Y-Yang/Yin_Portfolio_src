@@ -7,11 +7,9 @@ title: "Project III: Drug Target Identification"
 # {{< figure src="/images/button_github.png">}}
 ---
 ## Problem Statement
----
-
 Drug discovery and development pipeline is resource-intensive and time-consuming, which make them a major obstacle for rapid drug development. Current challenge is to develop discovery pipelines that can identify promising drug compounds early. A reliable method that can identify the potential drug compound with respect to its successful clinical translatability is needed today.
 
----
+
 ## Objectives
 ![prj3_objs](/images/prj3_objs.png)
 
