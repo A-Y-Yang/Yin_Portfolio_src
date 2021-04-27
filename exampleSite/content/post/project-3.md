@@ -11,7 +11,7 @@ Drug discovery and development pipeline is resource-intensive and time-consuming
 
 
 ## Objectives
-![prj3_objs](/images/prj3_objs.png)
+![prj3_objs](/images/prj3_objs2.png)
 
 * Established a prototype pipeline to rank potential drug compounds for drug discovery to reduce the time and costs of drug development.
 * Calculated PubChem Fingerprints using PaDEL-Descriptor.
