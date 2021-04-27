@@ -1,19 +1,18 @@
 ---
-date: 2020-12-10T11:00:59-04:00
-description: "Time Series Analysis"
-featured_image: "/images/lab.jpg"
+date: 2020-06-23T11:00:59-04:00
+description: "Python | PostgreSQL | AWS S3"
+featured_image: "/images/grocery.jpg"
 #tags: []
-title: "Project II: Continuous Glucose Monitoring"
+title: "Project II: Online Grocery Store"
 ---
-## Problem Statement
-Diabetes is a set of diseases characterized by the body’s inability to produce or respond to insulin, used to process carbs from food. According to the CDC in 2020, just over 1 in 10 Americans have diabetes (“National Diabetes Statistics Report, 2020.”)
+## Overview
+The goal is to build an US online grocery store application using a database backend to store information about products, availability of products in the stock, and customers of the store. The application should support two types of users. Customers of the store can search for products and look up information about products, setup an account and change their preferences and account details, order products, and make payments. Staff of the store can modify and create products, update the availability of products in the stock, query customer information, and process orders.
 
-Blood glucose monitoring is essential for diabetes management. With modern technology, patients with diabetes can continually monitor their blood glucose levels and adjust insulin doses, striving to keep blood glucose levels as close to normal as possible. Blood glucose levels that deviate from the normal range can lead to serious short-term and long-term complications. An automatic prediction model that warns people of imminent changes in their blood glucose levels would enable them to take preventive action. Further, automatic detection can enable automatic insulin delivery, lifting this burden from the patient.
 
 ## Objectives
-![prj2_objs](/images/prj2_objs.png)
+![prj2_objs](/images/prj2_objs2.png)
 
-* Diagnosed whether a patient has diabetes by analyzing relevant features data from [Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indians-diabetes-database) provided by Kaggle using logistic regression, KNN, Naive Bayes.
-* Utilized univariate/multivariate time series analysis(ARIMA/SARIMA, VAR, Prophet, LSTM) to forecast the following forty minutes and four hours long blood glucose levels of data from the Tidepool dataset.
+* Designed a grocery shopping system for both customers and staff leveraging PostgreSQL.
+* Utilize AWS, Python Flask to create an e-commerce website for users to perform tasks.
 
-[[GitHub]](https://github.com/A-Y-Yang/CSP-571-Continuous-Glucose-Monitoring-master)
+[[GitHub]](https://github.com/A-Y-Yang/CS-425-Online-Grocery-Store-App-master)

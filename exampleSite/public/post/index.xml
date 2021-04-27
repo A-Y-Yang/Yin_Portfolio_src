@@ -8,23 +8,32 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://a-y-yang.github.io/Yin_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project III: Drug Target Identification</title>
-      <link>https://a-y-yang.github.io/Yin_Portfolio/post/project-3/</link>
+      <title>Project IV: Drug Target Identification</title>
+      <link>https://a-y-yang.github.io/Yin_Portfolio/post/project-4/</link>
       <pubDate>Sat, 24 Apr 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://a-y-yang.github.io/Yin_Portfolio/post/project-3/</guid>
+      <guid>https://a-y-yang.github.io/Yin_Portfolio/post/project-4/</guid>
       <description>Problem Statement Drug discovery and development pipeline is resource-intensive and time-consuming, which make them a major obstacle for rapid drug development. Current challenge is to develop discovery pipelines that can identify promising drug compounds early. A reliable method that can identify the potential drug compound with respect to its successful clinical translatability is needed today.
 Objectives  Established a prototype pipeline to rank potential drug compounds for drug discovery to reduce the time and costs of drug development.</description>
     </item>
     
     <item>
-      <title>Project II: Continuous Glucose Monitoring</title>
-      <link>https://a-y-yang.github.io/Yin_Portfolio/post/project-2/</link>
+      <title>Project III: Continuous Glucose Monitoring</title>
+      <link>https://a-y-yang.github.io/Yin_Portfolio/post/project-3/</link>
       <pubDate>Thu, 10 Dec 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://a-y-yang.github.io/Yin_Portfolio/post/project-2/</guid>
+      <guid>https://a-y-yang.github.io/Yin_Portfolio/post/project-3/</guid>
       <description>Problem Statement Diabetes is a set of diseases characterized by the body’s inability to produce or respond to insulin, used to process carbs from food. According to the CDC in 2020, just over 1 in 10 Americans have diabetes (“National Diabetes Statistics Report, 2020.”)
 Blood glucose monitoring is essential for diabetes management. With modern technology, patients with diabetes can continually monitor their blood glucose levels and adjust insulin doses, striving to keep blood glucose levels as close to normal as possible.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Online Grocery Store</title>
+      <link>https://a-y-yang.github.io/Yin_Portfolio/post/project-2/</link>
+      <pubDate>Tue, 23 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://a-y-yang.github.io/Yin_Portfolio/post/project-2/</guid>
+      <description>Overview The goal is to build an US online grocery store application using a database backend to store information about products, availability of products in the stock, and customers of the store. The application should support two types of users. Customers of the store can search for products and look up information about products, setup an account and change their preferences and account details, order products, and make payments. Staff of the store can modify and create products, update the availability of products in the stock, query customer information, and process orders.</description>
     </item>
     
     <item>

@@ -1,6 +1,6 @@
 ---
 date: 2020-04-21T11:00:59-04:00
-description: "Time Series Analysis"
+description: "Time Series Analysis - Python"
 featured_image: "/images/air_pollution.jpg"
 #tags: []
 title: "Project I: Air Pollution PM2.5 Forecasting"
