@@ -19,4 +19,4 @@ Drug discovery and development pipeline is resource-intensive and time-consuming
 * Found active compounds with similar chemical structure (> 90% similarity) using RDKit.
 * Built a client-facing API using Python Django.
 
-[[GitHub]](https://github.com/A-Y-Yang/CSP-572-Drug-Target-Identification-master)
+[GitHub](https://github.com/A-Y-Yang/CSP-572-Drug-Target-Identification-master)

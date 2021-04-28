@@ -16,4 +16,4 @@ Blood glucose monitoring is essential for diabetes management. With modern techn
 * Diagnosed whether a patient has diabetes by analyzing relevant features data from [Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indians-diabetes-database) provided by Kaggle using logistic regression, KNN, Naive Bayes.
 * Utilized univariate/multivariate time series analysis(ARIMA/SARIMA, VAR, Prophet, LSTM) to forecast the following forty minutes and four hours long blood glucose levels of data from the Tidepool dataset.
 
-[[GitHub]](https://github.com/A-Y-Yang/CSP-571-Continuous-Glucose-Monitoring-master)
+[GitHub](https://github.com/A-Y-Yang/CSP-571-Continuous-Glucose-Monitoring-master)

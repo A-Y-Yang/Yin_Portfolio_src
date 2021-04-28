@@ -18,4 +18,4 @@ of PM2.5 concentration over the period of January 1, 2010 and December 31, 2015 
 * Used multivariate time series analysis(VAR) to explore the potential relationship of the PM2.5 pollution among five cities and other climatological factors.
 
 
-[[GitHub]](https://github.com/A-Y-Yang/Math-564-Time-Series-PM2.5-China-master)
+[GitHub](https://github.com/A-Y-Yang/Math-564-Time-Series-PM2.5-China-master)
